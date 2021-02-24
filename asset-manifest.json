@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/munsta-deck/static/css/main.916a6696.chunk.css",
+    "main.js": "/munsta-deck/static/js/main.96f7211d.chunk.js",
+    "main.js.map": "/munsta-deck/static/js/main.96f7211d.chunk.js.map",
+    "runtime-main.js": "/munsta-deck/static/js/runtime-main.c684dcda.js",
+    "runtime-main.js.map": "/munsta-deck/static/js/runtime-main.c684dcda.js.map",
+    "static/js/2.f3eb17d0.chunk.js": "/munsta-deck/static/js/2.f3eb17d0.chunk.js",
+    "static/js/2.f3eb17d0.chunk.js.map": "/munsta-deck/static/js/2.f3eb17d0.chunk.js.map",
+    "static/js/3.8dd36a71.chunk.js": "/munsta-deck/static/js/3.8dd36a71.chunk.js",
+    "static/js/3.8dd36a71.chunk.js.map": "/munsta-deck/static/js/3.8dd36a71.chunk.js.map",
+    "index.html": "/munsta-deck/index.html",
+    "static/css/main.916a6696.chunk.css.map": "/munsta-deck/static/css/main.916a6696.chunk.css.map",
+    "static/js/2.f3eb17d0.chunk.js.LICENSE.txt": "/munsta-deck/static/js/2.f3eb17d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c684dcda.js",
+    "static/js/2.f3eb17d0.chunk.js",
+    "static/css/main.916a6696.chunk.css",
+    "static/js/main.96f7211d.chunk.js"
+  ]
+}
